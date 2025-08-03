@@ -1,4 +1,4 @@
-#MySQL code
+# MySQL code
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
   DECLARE offset_val INT;
