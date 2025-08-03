@@ -1,4 +1,4 @@
-#MySQL code
+# MySQL code
 # Write your MySQL query statement below
 SELECT 
     s1.score,
