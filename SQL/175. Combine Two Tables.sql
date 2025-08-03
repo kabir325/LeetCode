@@ -1,3 +1,4 @@
+#MySQL code
 # Write your MySQL query statement below
 SELECT 
     p.firstName, 
